@@ -1,0 +1,2 @@
+# Thinkful-DS-Fundamentals
+Jupyter Notebook lessons from the Data Science Fundamentals section.   And projects required.
